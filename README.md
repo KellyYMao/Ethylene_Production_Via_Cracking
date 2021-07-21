@@ -6,7 +6,8 @@ This is an overview of how ethylene is produced via thermal cracking and a summa
 
 # Thermal Cracking Overview
 Thermal Cracking is a process that uses heat and pressure to break down long-chained, higher-boiling hydrocarbons in crude oil to short-chained, lower-boiling hydrocarbons. 
-put image, put image 
+![Thermal_Cracking_Chemical_Reaction](/Diagrams/Thermal_Cracking_Chemical_Reaction.png)
+![Alkanes_Diagram](/Diagrams/Alkanes_Diagram.png)
 
 # Thermal Cracking Typical Conditions
 Temperature: 455-540 C (850-1005 F), Pressure: 100-1000 psi  
@@ -17,13 +18,14 @@ Severe Conditions: higher gas production, increased coke production, decreased y
 Higher temperatures increases the speed of conversions. However, this may change a reaction’s chemistry and does not necessary lead to higher target product yields. 
 
 # Quenching
-put image here
+![Quenching](/Diagrams/Quenching.png)
+![Quench_Tower](/Diagrams/Quench_Tower.png)
 
 # Compression & Drying
-put image here
+![Compression_Drying](/Diagrams/Compression_Drying.png)
 
 # Separation
-put image here
+![Separation](/Diagrams/Separation.png)
 
 # Benefits Of Thermal Cracking
 Enables low operating pressure and high operating temperature  
@@ -49,21 +51,22 @@ Coupon monitoring and acoustic monitoring preventive measures to detect corrosio
 # Metal Dusting 
 Metal Dusting is the corrosion of metallic materials into dust (fine metal particles) in a carbon-saturated atmosphere due to rapid carburization. 
 
-put image here
+![Metal_Dusting](/Diagrams/Metal_Dusting.png)
 
 This is a prominent issue in syngas, hydrogen, and ammonia production.  
 Oil cracking are facilities susceptible to metal dusting.
 
-put image here
+![Composition_Of_Metals](/Diagrams/Composition_Of_Metals.png)
 
 Fe, Co, Ni base alloys are affected. 
 Specific metal dusting mechanisms differ depending on the type of alloy and phase.
 Analysis must be done to find the best mitigation procedures. 
 
 # Metal Dusting Mechanisms
-Put image here 
-put image here
-put image here
+![Decomposition_Metal_Carbides](/Diagrams/Decomposition_Metal_Carbides.png)
+![Graphitization](/Diagrams/Graphitization.png)
+![Chun_Model](/Diagrams/Chun_Model.png)
+![Fabus_Model](/Diagrams/Fabus_Model.png)
 
 # Metal Dusting Mitigation Techniques
 
