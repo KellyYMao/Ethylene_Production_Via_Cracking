@@ -2,7 +2,7 @@
 This is an overview of how ethylene is produced via thermal cracking and a summary of the different mechanisms and mitigation techniques of metal dusting. 
 
 # Process Summary
-put image 
+![Process_Summary](/Diagrams/Process_Summary.png)
 
 # Thermal Cracking Overview
 Thermal Cracking is a process that uses heat and pressure to break down long-chained, higher-boiling hydrocarbons in crude oil to short-chained, lower-boiling hydrocarbons. 
